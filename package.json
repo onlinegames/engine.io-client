@@ -55,6 +55,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Automattic/engine.io-client.git"
+    "url": "https://github.com/onlinegames/engine.io-client.git"
   }
 }
